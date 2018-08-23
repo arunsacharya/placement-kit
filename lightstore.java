@@ -1,3 +1,16 @@
+/*
+	A light store owner has several bulb chains of different types which consist of bulbs of different colors in different order.
+In addition to that, he has large collection of bulbs of each colors.A bulb chain is identified by the color sequence of its bulbs.
+He wants to transform one type of bulb chain into another type of bulb chain by either by.
+	
+	Adding a bulb at some location.
+	Removing a bulb from a location.
+	Replacing a bulb with another bulb of different colour.
+	
+	Given two color sequences of two different bulb chains, Find the minimum no of operations required to do this transformation.
+	(Assume each color can be represented by a character and hence, color sequence of a bulb chain can be represented as sequence
+	of characters of a string.)
+*/
 import java.util.Scanner;
 
 public class TheLightStore {
